@@ -1,0 +1,62 @@
+[
+  {
+    "id": "necklace-diamond-layered",
+    "name": "Diamond Layered Drop",
+    "type": "necklace",
+    "material": "18k Gold & Diamonds",
+    "image": "/jewelry/necklace3.png",
+    "description": "Cascading six-strand layered necklace with graduated rose-cut diamond pendants",
+    "price": "18,500",
+    "placementType": "necklace"
+  },
+  {
+    "id": "necklace-kundan-greenwhite",
+    "name": "Kundan Bridal Set",
+    "type": "necklace",
+    "material": "22k Gold, Kundan & Emeralds",
+    "image": "/jewelry/necklace4.png",
+    "description": "Opulent bridal necklace with kundan setting, pearls and teardrop emeralds",
+    "price": "24,000",
+    "placementType": "necklace"
+  },
+  {
+    "id": "necklace-polki-choker",
+    "name": "Polki Pearl Choker",
+    "type": "necklace",
+    "material": "22k Gold, Polki & Pearls",
+    "image": "/jewelry/necklace6.png",
+    "description": "Regal choker with polki diamonds, seed pearls and a ruby centre stone",
+    "price": "31,000",
+    "placementType": "necklace"
+  },
+  {
+    "id": "necklace-kundan-multicolor",
+    "name": "Kundan Layered Bridal",
+    "type": "necklace",
+    "material": "22k Gold, Polki & Meenakari",
+    "image": "/jewelry/necklace5.png",
+    "description": "Grand layered statement necklace with meenakari enamel and pearl drops",
+    "price": "42,000",
+    "placementType": "necklace"
+  },
+  {
+    "id": "earring-diamond-swirl",
+    "name": "Diamond Swirl Stud",
+    "type": "earring",
+    "material": "18k Rose Gold & Diamonds",
+    "image": "/jewelry/earring1.png",
+    "description": "Contemporary swirl stud with pavé diamond trail and floral cluster",
+    "price": "3,200",
+    "placementType": "earring"
+  },
+  {
+    "id": "earring-polki-fan",
+    "name": "Polki Fan Drop",
+    "type": "earring",
+    "material": "22k Gold & Polki",
+    "image": "/jewelry/earring2.png",
+    "description": "Dramatic fan-shaped drop earring fully set with uncut polki diamonds",
+    "price": "15,800",
+    "placementType": "earring"
+  }
+]
